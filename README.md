@@ -1,4 +1,4 @@
-                               PROJECT-A
+                   PROJECT-A
 
 PROJECT A: Revolutionizing Education Admissions
 
