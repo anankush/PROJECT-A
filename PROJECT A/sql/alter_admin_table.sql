@@ -1,0 +1,2 @@
+ALTER TABLE admin
+ADD COLUMN is_temp_password BOOLEAN DEFAULT FALSE;
