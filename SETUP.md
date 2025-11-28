@@ -73,13 +73,21 @@ Password: admin
 ________________________________________
 9. Project Structure Overview
 PROJECT-A/
+
 │
+
 ├── DB/                  → SQL database file (import this)
+
 ├── admin/               → Admin panel files
+
 ├── user/                → Student/user pages
+
 ├── assets/              → CSS, JS, images
+
 ├── index.php            → Home page
+
 └── setup.md             → Setup Instructions
+
 ________________________________________
 10. Deploying on Hosting Server
 To deploy online:
