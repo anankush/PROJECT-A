@@ -1,4 +1,4 @@
-													PROJECT-A: Admission Portal System
+									PROJECT-A: Admission Portal System
 
 
 PROJECT-A is a complete web-based Admission Portal System developed to modernize and automate the student admission process for schools, colleges, and educational institutions. Instead of relying on traditional offline methods like physical form submissions, long queues, manual verification, and paper-based documentation, this system provides a fully digital workflow where students and institutions can manage the entire admission cycle online.
