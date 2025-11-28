@@ -17,6 +17,7 @@ ________________________________________
 2. Download the Project
 Option 1: Git Clone
 git clone  https://github.com/anankush/PROJECT-A.git
+
 Option 2: Download ZIP
 •	Click Code → Download ZIP
 •	Extract the ZIP anywhere
@@ -70,6 +71,7 @@ http://localhost/PROJECT-A/admin/
 Default credentials (if included in DB):
 Username: admin
 Password: admin
+For Admin Authorization : NAYAN@123
 ________________________________________
 9. Project Structure Overview
 PROJECT-A/
