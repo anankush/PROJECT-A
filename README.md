@@ -1,9 +1,6 @@
 									PROJECT-A: Admission Portal System
 
 
-Here is a refined, professional, and visually appealing version of your text formatted specifically for a GitHub `README.md` file. It uses Markdown formatting, badges, emojis, and clear sections to make your project stand out to developers and users.
-
-***
 
 # PROJECT-A 🎓 | Admission Portal System
 
